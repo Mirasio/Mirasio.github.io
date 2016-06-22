@@ -12,9 +12,9 @@ And I can tell you about my life.
 
 Rules:
 
-1) Collect money from killed creeps.
-2) Kill enemy heroes.
-3) Destroy enemy towers and barraks and throne.
+1) Collect money from killed creeps.                                                                           
+2) Kill enemy heroes.                                                                                  
+3) Destroy enemy towers and barraks and throne.                                          
 4) Ugrade your abilites.
 5) Do not feed enemies.
 6) Communicate with your team.
