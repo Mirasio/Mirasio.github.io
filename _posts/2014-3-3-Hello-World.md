@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Defenders Of The Ancients!!!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+https://i.ytimg.com/vi/8MO8feq5Xq8/maxresdefault.jpg
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
