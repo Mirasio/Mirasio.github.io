@@ -8,5 +8,20 @@ And I can tell you about my life.
 
 
 ![_config.yml](https://i.ytimg.com/vi/8MO8feq5Xq8/maxresdefault.jpg)
+Rules:
+
+1) Collect money from killed creeps.
+2) Kill enemy heroes.
+3) Destroy enemy towers and barraks and throne.
+4) Ugrade your abilites.
+5) Do not feed enemies.
+6) Communicate with your team.
+
+Winning condition 
+
+Destroy enemies' ancient or all enemies will abandon the game
 
 
+Story
+
+Conflict between Dire and Radiant.
