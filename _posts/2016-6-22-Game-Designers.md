@@ -30,3 +30,6 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
    2. Designer
   
 ![_config.yml](https://www.google.kz/imgres?imgurl=http%3A%2F%2Fabbeygames.com%2Fwp-content%2Fuploads%2F2012%2F02%2Fgame-designer.png&imgrefurl=http%3A%2F%2Fabbeygames.com%2Fblog%2F2012%2F02%2F18%2Fgame-design-the-designer-class-what-does-he-do%2F&docid=Z3nLvy7IVi3VIM&tbnid=OGAD_XgfYE8izM%3A&w=640&h=400&safe=active&bih=666&biw=1368&ved=0ahUKEwix7NXui73NAhXJ8ywKHVtwAfoQMwgeKAQwBA&iact=mrc&uact=8)
+
+
+Designer is second person who stay's on important ladder. 
