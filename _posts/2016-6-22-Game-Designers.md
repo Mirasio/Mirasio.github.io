@@ -18,12 +18,29 @@ Hello!!! My name is Miras. And I want to tell you about game creators. It's very
 
 
 
+
+
+
+
+                                                                  
+
+
    1 Producer
     
 ![_config.yml](http://4.bp.blogspot.com/_7ftsdH0bFkc/TPhy6ndSvvI/AAAAAAAAAWE/6XJysyKYxRA/s1600/Bathing_in_money1.jpg)
 
 Producer is the main man in the team, because producer gives money to implement the project.
 Producer gives all to the rest of the team could work. Producer like a Actioner like a the Foundation of team.
+
+
+
+
+
+
+
+
+
+
 
 
 
