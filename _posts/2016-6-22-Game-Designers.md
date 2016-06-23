@@ -3,10 +3,10 @@ layout: post
 title: About Game creating!
 ---
 
+![_config.yml](https://www.game-guru.com/images/TheGameCreators-Logo.png)
+
 Hello!!! My name is Miras. And I want to tell you about game creators. It's very interesting!
 
-
-![_config.yml](https://www.game-guru.com/images/TheGameCreators-Logo.png)
 
   To create the game you need minimum 5 people with different roles. There are:
   
@@ -32,4 +32,4 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
 ![_config.yml](http://www.animationarena.com/images/videogamedesigner-header.jpg)
 
 
-Designer is second person who stay's on important ladder. 
+Designer is second person who stay's on important ladder. Designer gives Game his face and appearance.
