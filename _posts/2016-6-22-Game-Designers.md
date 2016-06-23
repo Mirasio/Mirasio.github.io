@@ -68,3 +68,14 @@ Designer creates an atmosphere in a Game, gives something special, that sets it 
 ![_config.yml](http://www.careeraddict.com/games_developer.png)
 
 Engineer creat's the game itself. 
+
+
+
+
+
+
+   4 Scientist
+
+![_config.yml](http://image.shutterstock.com/display_pic_with_logo/946174/131192675/stock-vector-scientist-s-maze-game-help-the-scientist-find-the-right-way-to-a-bright-idea-maze-puzzle-with-131192675.jpg)
+
+
