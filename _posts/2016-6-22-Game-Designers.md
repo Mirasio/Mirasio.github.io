@@ -29,7 +29,7 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
 
    2 Designer
   
-![_config.yml](https://www.google.kz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjZuaa6jL3NAhULWSwKHamzCj8QjBwIBA&url=http%3A%2F%2Fabbeygames.com%2Fwp-content%2Fuploads%2F2012%2F02%2Fgame-designer.png&bvm=bv.125221236,d.bGg&psig=AFQjCNHu-LQ3iaAKXFM3mOz3bSzn14fP3A&ust=1466735017404306.jpg)
+![_config.yml](http://www.animationarena.com/images/videogamedesigner-header.jpg)
 
 
 Designer is second person who stay's on important ladder. 
