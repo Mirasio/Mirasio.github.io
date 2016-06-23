@@ -21,6 +21,7 @@ Winning condition
 
 Destroy enemies' ancient or all enemies will abandon the game
 
+![_config.yml](http://getdota2.ru/forum/uploads/imgs/1334400387__.jpg)
 
 Story
 
