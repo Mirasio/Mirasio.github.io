@@ -50,3 +50,21 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
 
 
 Designer is second person who stay's on important ladder. Designer gives Game his face and appearance.
+Designer creates an atmosphere in a Game, gives something special, that sets it apart from all the other games.
+
+
+
+
+
+
+
+
+
+
+
+
+   3 Engineer
+   
+![_config.yml](http://www.careeraddict.com/games_developer.png)
+
+Engineer creat's the game itself. 
