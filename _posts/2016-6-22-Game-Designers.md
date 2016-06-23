@@ -29,7 +29,7 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
 
    2 Designer
   
-![_config.yml](https://www.google.kz/imgres?imgurl=http%3A%2F%2Fblog.cogswell.edu%2Fwp-content%2Fuploads%2F2013%2F02%2FWordle_design_team.jpg&imgrefurl=https%3A%2F%2Fwww.tes.com%2Flessons%2FoelwXnvVFvc6VA%2Fgame-design&docid=doa6gCJ4XR2yYM&tbnid=XT9vuXgDR2AM5M%3A&w=1611&h=918&safe=active&bih=666&biw=1368&ved=0ahUKEwix7NXui73NAhXJ8ywKHVtwAfoQMwgjKAkwCQ&iact=mrc&uact=8.jpg)
+![_config.yml](https://www.google.kz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjZuaa6jL3NAhULWSwKHamzCj8QjBwIBA&url=http%3A%2F%2Fabbeygames.com%2Fwp-content%2Fuploads%2F2012%2F02%2Fgame-designer.png&bvm=bv.125221236,d.bGg&psig=AFQjCNHu-LQ3iaAKXFM3mOz3bSzn14fP3A&ust=1466735017404306.jpg)
 
 
 Designer is second person who stay's on important ladder. 
