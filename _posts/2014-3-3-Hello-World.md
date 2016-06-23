@@ -3,12 +3,10 @@ layout: post
 title: Defenders Of The Ancients!!!
 ---
 
+![_config.yml](http://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1464626115.jpg)
+
 Hello!!! I'm creater of this site. My name is Miras.
 And I can tell you about my life.
-
-
-![_config.yml](https://i.ytimg.com/vi/8MO8feq5Xq8/maxresdefault.jpg)
-
 
 Rules:
 
