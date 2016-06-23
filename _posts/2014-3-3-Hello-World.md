@@ -16,7 +16,9 @@ Rules:
 4) Ugrade your abilites.                                                   
 5) Do not feed enemies.                                                   
 6) Communicate with your team.                                                            
-7) Choose your hero from 112 heroes.                                                        
+7) Choose your hero from 112 heroes.  
+
+![_config.yml](http://wallpapersinhd.in/wp-content/uploads/2016/02/dota2-all-characters.jpeg)
 
 Winning condition 
 
