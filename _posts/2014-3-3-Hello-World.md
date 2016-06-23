@@ -25,3 +25,12 @@ Destroy enemies' ancient or all enemies will abandon the game
 Story
 
 Conflict between Dire and Radiant.
+
+
+
+
+
+![_config.yml](http://66.media.tumblr.com/c93207392425e60d2f2e2b47f2a31eff/tumblr_nmcm8quaH11rql04vo1_1280.jpg)
+
+![_config.yml](http://66.media.tumblr.com/0b152d5212ef87df9cef5c9285b83d04/tumblr_nmcm8quaH11rql04vo2_1280.jpg)
+
