@@ -49,7 +49,7 @@ Producer gives all to the rest of the team could work. Producer like a Actioner 
 ![_config.yml](http://www.animationarena.com/images/videogamedesigner-header.jpg)
 
 
-Designer is second person who stay's on important ladder. Designer gives Game his face and appearance.
+Designer is third person who stay's on important ladder. Designer gives Game his face and appearance.
 Designer creates an atmosphere in a Game, gives something special, that sets it apart from all the other games.
 
 
@@ -67,7 +67,7 @@ Designer creates an atmosphere in a Game, gives something special, that sets it 
    
 ![_config.yml](http://www.careeraddict.com/games_developer.png)
 
-Engineer creat's the game itself. He is programmer, 
+Engineer creat's the game itself. He is programmer, he is build's Game. His team gives him ideas, templates and advices to do a Game. Engineer second person who stay's on important ladder. Without Engineer the game will not be implemented.
 
 
 
@@ -78,10 +78,13 @@ Engineer creat's the game itself. He is programmer,
 
 ![_config.yml](http://image.shutterstock.com/display_pic_with_logo/946174/131192675/stock-vector-scientist-s-maze-game-help-the-scientist-find-the-right-way-to-a-bright-idea-maze-puzzle-with-131192675.jpg)
 
+Scientist studies different Game properties and gives new Ideas or advices for better Game.
 
 
    5 Artist
    
 ![_config.yml](http://meepletown.com/wp-content/uploads/2012/06/vincentdutrait.jpg)
+
+Artist gives a lot of ideas for designer. Artist draws a lots of different pictures, interfaces and models for Game. 
 
 
