@@ -3,7 +3,7 @@ layout: post
 title: About Game creating!
 ---
 
-Hello!!! My name is Miras. And I want to tell you about game creators. It's very interesting!999
+Hello!!! My name is Miras. And I want to tell you about game creators. It's very interesting!
 
 
 ![_config.yml](https://www.game-guru.com/images/TheGameCreators-Logo.png)
@@ -18,7 +18,7 @@ Hello!!! My name is Miras. And I want to tell you about game creators. It's very
 
 
 
-    1. Producer
+   1. Producer
     
 ![_config.yml](http://4.bp.blogspot.com/_7ftsdH0bFkc/TPhy6ndSvvI/AAAAAAAAAWE/6XJysyKYxRA/s1600/Bathing_in_money1.jpg)
 
