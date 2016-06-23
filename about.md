@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:kristall555555@yandex.ru)
+[kristall555555@yandex.ru](mailto:email@domain.com)
