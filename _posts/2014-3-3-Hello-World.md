@@ -1,5 +1,5 @@
 ---
-layout: title
+layout: post
 title: Defenders Of The Ancients!!!
 ---
 
