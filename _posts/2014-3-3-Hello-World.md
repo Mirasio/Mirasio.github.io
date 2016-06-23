@@ -16,7 +16,7 @@ Rules:
 4) Ugrade your abilites.                                                   
 5) Do not feed enemies.                                                   
 6) Communicate with your team. 
-7) Choose your hero from 112 heroes.
+7) Choose your hero from 112 heroes.                                                        
 
 Winning condition 
 
