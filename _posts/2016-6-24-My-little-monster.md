@@ -1,5 +1,5 @@
 ---
-loyal: post
+layout: post
 title: Me little monster.
 ---
 
