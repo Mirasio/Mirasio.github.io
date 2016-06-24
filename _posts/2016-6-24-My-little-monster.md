@@ -15,4 +15,4 @@ I have copied three more arms, drew body, legs and head.
 It was little big hard, because I didn't know which command is doing, but through trials and errors I did it.
 
 Link to the Game:
-Mirasio.github.io/monster/
+(Mirasio.github.io/monster/)
