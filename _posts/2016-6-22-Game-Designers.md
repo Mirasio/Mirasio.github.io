@@ -5,6 +5,8 @@ title: About Game creating!
 
 ![_config.yml](https://www.game-guru.com/images/TheGameCreators-Logo.png)
 
+________________________________________________________________________________________________________________________________
+
 Hello!!! My name is Miras. And I want to tell you about game creators. It's very interesting!
 
 
