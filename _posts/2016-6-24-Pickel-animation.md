@@ -1,5 +1,5 @@
 ---
-layout: title
+layout: post
 post: My first Piskel animation!!!
 ---
 
