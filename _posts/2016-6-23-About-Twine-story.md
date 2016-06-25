@@ -21,4 +21,4 @@ Story:
 
 Maddie is common student of university. She wants to end up university and work as a designer. To help her reach her aim you should make right decisions that will affect on passing her exams. To see different endings you should try all variants.
 
-[Loni to the Game](https://mirasio.github.io/exam-challenge-game/)
+[Link to the Game](https://mirasio.github.io/exam-challenge-game/)
