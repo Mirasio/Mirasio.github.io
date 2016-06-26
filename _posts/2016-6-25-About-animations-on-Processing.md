@@ -15,3 +15,5 @@ My turn was almost a good and [that's what happened](http://mirasio.github.io/sm
 Than Sherol showed we how to do this animation and [that's what I could do](http://mirasio.github.io/mario).
 
 And I liked this than I wanted to do one more animation. It whas [this](http://mirasio.github.io/girl).
+
+I understood, working on Processing language is awesome. I didn't see programming languages like this. On processing language you have a lots of opportunities. I like this.
