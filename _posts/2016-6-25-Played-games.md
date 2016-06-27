@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Played Games!
+title: Game reveiw of "You Have To Burn The Rope".
 ---
 
 ![_config.yml](http://orig14.deviantart.net/ac24/f/2008/100/8/d/you_have_to_burn_the_rope_by_fadri.jpg)
