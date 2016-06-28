@@ -7,3 +7,6 @@ title: Programming on Arduino.
 
 ___
 
+What is it?
+
+Arduino is an open-source platform used for building electronics projects
