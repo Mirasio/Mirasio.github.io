@@ -13,7 +13,7 @@ I like Computer games: Dota 2, CS:GO, little Minecraft and Games on telephone: C
 I like play on guitar. On a guitar I can play song "Wake me up", "Stolen Dance"....(litlle russian songs)
 And I like play on a piano. I can play songs: "Let it be", "Amelie", "Ke Lize"
 
-My favorite songs: "Stolen Dance"(I advise you to listen), All Imagine Dragons's songs, All Arctic Monkeys's songs, "The Days", 
+My favorite songs: All Milky Chanse's songs, All Imagine Dragons's songs, All Arctic Monkeys's songs, "The Days", 
 "Time Of Our Live", "Feel so Close", "Hey Brother", "Budapest", "Riptide", "Fireproof".
 
 I like to ride a bike around the city. 
