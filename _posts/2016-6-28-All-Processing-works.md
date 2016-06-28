@@ -19,3 +19,5 @@ ___
 
 [Moving cars](http://mirasio.github.io/CARROAD)
 
+[Just traffic light](http://mirasio.github.io/svet)
+
