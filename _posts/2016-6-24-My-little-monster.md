@@ -4,9 +4,9 @@ title: My little monster.
 ---
 
 
-![_config.yml](http://cliparts.co/cliparts/Lid/jLa/LidjLa8zT.png)
+![_config.yml](https://s-media-cache-ak0.pinimg.com/236x/9b/76/e4/9b76e473b8fc979886a43390654535f3.jpg)
 
-____________________________________________________________________________________________________________________________
+___
 
 Learn more about monster image from java script
 
