@@ -8,4 +8,6 @@ title: My first Pickel animation.
 __________________________________________________________________________________________________________________________
  
  
- Do not working post. Come again later.
+Hello!!! Now I want to tell you about piskel animations. 
+Piskel animations you can do on [piskelapp.com](http://piskelapp.com/) site.
+Piskel animations drawing pixel by pixel and my first animation was [Portal](http://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgIDyjt68Cww)
