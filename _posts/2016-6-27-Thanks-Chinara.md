@@ -7,3 +7,8 @@ title: Thanks Chinara!
 
 ___
 
+It was awesome to know someone who was that god to get job in Google despite all difficults and obstacles, because you understand what you can do something more and achieve great heights. This conversation gives us motivasion to do amazing things. Thank you Chinara!!!
+
+
+
+![_config.yml](https://dukeforward.duke.edu/images/ce_img_cache/images/uploads/gp-blog-images/Thank_You_1024_681_84_s_c1_large.jpg)
