@@ -5,7 +5,7 @@ title: My first ANIMATIOOON!!!!
 
 ![_config.yml](http://www.krosstalkdoubletalk.com/wp-content/uploads/2015/01/childrens_animation.jpg)
 
-_________________________________________________________________________________________________________________
+____
 
 Hello people! Today I want tell you about my first animation on Processing.
 
