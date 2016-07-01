@@ -16,6 +16,20 @@ Prrocessing is simple for beginners and great for pro.
 ![_config.yml](http://www.brondbjerg.co.uk/blog/wp-content/uploads/2014/02/generative-portraits-dead-presidents.jpg)
 
 
-Like this photos you can do What you want. And few animations from our group.
+Like this photos you can do What you want. Or like this
+
+![_config.yml](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/12/lisa.png)
+
+In Processing You can do different Games or Programms for work in office, create sites and of course Animations.
+
+
+Animation(from French animation - recovery)-Western title animation: cinema art view and his creation.
+
+-Computer animation - sequential display (slide show) of pre-prepared files and computer simulation of the movement by changing the shape of objects or displaying sequential images with the phases of the movement.
+
+-Animation - the process of giving ability to move and/or visibility of living objects and dead bodies (for example: zombie-animated corpse). Often this type of animation uses in Games with fantasy genre.
+
+And few animations from our group.
 
 [Ball colliding](https://azim228.github.io/collider/)
+[](https://ulpan.github.io/Animation/)
