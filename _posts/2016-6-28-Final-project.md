@@ -7,5 +7,15 @@ title: FINAL project about Processing and Animation!
 
 ___
 
-Hello!! It is last my project at this course. 
+Hello!! It is last my project at this course. Now About Processing:
 
+Processing.js is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins. You write code using the Processing language, include it in your web page, and Processing.js does the rest. It's not magic, but almost.Originally developed by Ben Fry and Casey Reas, Processing started as an open source programming language based on Java to help the electronic arts and visual design communities learn the basics of computer programming in a visual context. 
+
+Prrocessing is simple for beginners and great for pro.
+
+![_config.yml](http://www.brondbjerg.co.uk/blog/wp-content/uploads/2014/02/generative-portraits-dead-presidents.jpg)
+
+
+Like this photos you can do What you want. And few animations from our group.
+
+[Ball colliding](https://azim228.github.io/collider/)
